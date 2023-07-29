@@ -1,0 +1,8 @@
+{
+    "servers_list": [
+        {"name": "Server 1", "address": ["172.16.253.52", 10086]}, 
+        {"name": "Server 2", "address": ["172.17.11.20", 12007]}
+    ],
+    "cache_size": 100,
+    "log_level": "INFO"
+}
